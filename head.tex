@@ -1,0 +1,61 @@
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{subcaption}
+
+\usepackage{amsmath}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+\makeatletter
+\def\BState{\State\hskip-\ALG@thistlm}
+\makeatother
+
+\usepackage{hyperref}
+
+
+\usepackage[nameinlink]{cleveref}
+ \AtBeginDocument{%
+    \crefname{equation}{برابری}{equations}%
+    \crefname{chapter}{فصل}{chapters}%
+    \crefname{section}{بخش}{sections}%
+    \crefname{appendix}{پیوست}{appendices}%
+    \crefname{enumi}{مورد}{items}%
+    \crefname{footnote}{زیرنویس}{footnotes}%
+    \crefname{figure}{شکل}{figures}%
+    \crefname{table}{جدول}{tables}%
+    \crefname{theorem}{قضیه}{theorems}%
+    \crefname{lemma}{لم}{lemmas}%
+    \crefname{corollary}{نتیجه}{corollaries}%
+    \crefname{proposition}{گزاره}{propositions}%
+    \crefname{definition}{تعریف}{definitions}%
+    \crefname{result}{نتیجه}{results}%
+    \crefname{example}{مثال}{examples}%
+    \crefname{remark}{نکته}{remarks}%
+    \crefname{note}{یادداشت}{notes}%
+    \crefname{observation}{مشاهده}{observations}%
+    \crefname{algorithm}{الگوریتم}{algorithms}%
+    \crefname{cproof}{برهان}{cproofs}%
+}
+
+\usepackage{xepersian}
+
+\settextfont{XB Zar}[
+  Path=./fonts/,
+  Scale=1.2,
+  Extension=.TTF,
+  UprightFont=*,
+  ItalicFont=*It,
+  BoldFont=*Bd,
+  BoldItalicFont=*BdIt
+]
+
+\setlatintextfont[Scale=1.1]{Times New Roman}
+
+\setmonofont[
+  Path=./fonts/,
+  Scale=1.0,
+  Weight=800,
+  Extension=.TTF,
+]{Inconsolata}
