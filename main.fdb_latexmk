@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1688665582 "main.xdv" "main.pdf" "main" 1688665583 0
-  "main.xdv" 1688665582 23596 24c95da5f6f3be4d0b8ac4f25629329a "xelatex"
+["xdvipdfmx"] 1688726375 "main.xdv" "main.pdf" "main" 1688726375 0
+  "main.xdv" 1688726375 29332 303100b3699136bcc0f47dcdc9be5924 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1688665580 "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" "main.xdv" "main" 1688665583 0
+["xelatex"] 1688726373 "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" "main.xdv" "main" 1688726375 0
   "C:/Users/Mohammad/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1678459955 36439472 478f53da6a52c02c79bff605688cac20 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136759654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -14,6 +14,7 @@
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -73,7 +74,6 @@
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/hyperref/nameref.sty" 1675853528 12947 1ce831528e963a8568de1f4d67cfb982 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/hyperref/pd1enc.def" 1675853528 14249 d947c5c09f3af04ae2f37fc11c7ac2f6 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/hyperref/puenc.def" 1675853528 117125 aa115cac3914abcf3769f370e6325117 ""
-  "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/inconsolata/Inconsolata.fontspec" 1403472850 136 4011ec023c1310c00759de8624065a33 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1656236481 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/latex/l3backend/l3backend-xetex.def" 1673900822 32346 879686206fa618f4f5073ad4bd48feda ""
@@ -108,12 +108,12 @@
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian-mathdigitspec.sty" 1667129857 14840 94198a68ff0f23c2ebb1887e3861bd49 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian-persiancal.sty" 1667129857 8178 0bd07ab30371a3432dba322d51faa3d8 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian.sty" 1667129856 54585 b300d6b8a9c3de50c8d582d10f7f3fd7 ""
-  "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" 1688665580 4333 8e9796fdf5e20ef4a359f9b25796701b ""
+  "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" 1688726371 5197 b2559c60f7869cd7640ff799958cea66 ""
   "figs/sortingCards2.jpg" 1688637588 96892 800d59169b1b5b7c2eeb2da00e6cf778 ""
-  "head.tex" 1688659699 1606 20efcdf7fbcb6408bb9190528bb82998 ""
-  "main.aux" 1688665582 1412 bfb1b5b63eaca9248fb256ab81dee153 "xelatex"
-  "main.out" 1688665582 155 4325fbeb762afa36ea8ebdcef3b7c514 "xelatex"
-  "main.tex" 1688665580 4333 8e9796fdf5e20ef4a359f9b25796701b ""
+  "head.tex" 1688725832 1746 f195393460bd4b9deab6e4935f8d5352 ""
+  "main.aux" 1688726375 1912 50fe66fa81ef2355a47fde20a111fc74 "xelatex"
+  "main.out" 1688726375 228 c1e911b65510eba8cc99b31dce2fcf05 "xelatex"
+  "main.tex" 1688726371 5197 b2559c60f7869cd7640ff799958cea66 ""
   (generated)
   "main.aux"
   "main.log"

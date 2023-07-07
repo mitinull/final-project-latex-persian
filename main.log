@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  6 JUL 2023 21:16
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  7 JUL 2023 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -557,6 +557,35 @@ Package fontspec Info: Font family 'XBZar(0)' created for font 'XB Zar' with
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
 (Font)              scaled to size 14.39996pt on input line 52.
 
+Package fontspec Info: Font family 'XBZar(1)' created for font 'XB Zar' with
+(fontspec)             options
+(fontspec)             [Ligatures=PersianTeX,Path=./fonts/,Scale=1.2,Extension=.TTF,UprightFont=*,ItalicFont=*It,BoldFont=*Bd,BoldItalicFont=*BdIt].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.2]"[./fonts/XB
+(fontspec)             Zar.TTF]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.2]"[./fonts/XB
+(fontspec)             ZarBd.TTF]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.2]"[./fonts/XB
+(fontspec)             ZarIt.TTF]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.2]"[./fonts/XB
+(fontspec)             ZarBdIt.TTF]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas'XB Zar' on input line 62.
+\symOPERATORS=\mathgroup4
+\symnew@mathbf@font@digits=\mathgroup5
+\symnew@mathit@font@digits=\mathgroup6
+\symnew@mathrm@font@digits=\mathgroup7
+
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX,Scale=1.1].
 (fontspec)              
@@ -585,26 +614,8 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             <->s*[1.1]"Times New
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
-LaTeX Info: Redefining \latinfont on input line 55.
-) (D:\Program-Files\MiKTeX&Family\MiKTeX\tex/latex/inconsolata\Inconsolata.fontspec) (D:\Program-Files\MiKTeX&Family\MiKTeX\tex/latex/inconsolata\Inconsolata.fontspec) (D:\Program-Files\MiKTeX&Family\MiKTeX\tex/latex/inconsolata\Inconsolata.fontspec)
-
-Package fontspec Info: Font family 'Inconsolata(0)' created for font
-(fontspec)             'Inconsolata' with options
-(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Path=./fonts/,Scale=1.0,Weight=800,Extension=.TTF].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.0]"[./fonts/Inconsolata.TTF]/OT:script=latn;language=dflt;weight=800;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
-(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
-(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
-(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
-
- (main.aux)
+LaTeX Info: Redefining \latinfont on input line 65.
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -644,44 +655,124 @@ LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
 (Font)              scaled to size 24.88794pt on input line 11.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
 (Font)              scaled to size 17.27994pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 12.
-LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 12.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <14.4> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 17.27994pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <10> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 11.99997pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <7> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 8.39998pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 17.27994pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 11.99997pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 8.39998pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 14.39996pt on input line 13.
+ [1
 
-Overfull \hbox (3.96472pt too wide) in paragraph at lines 21--25
+]
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <17.28> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <12> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 14.39996pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 20.73593pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 14.39996pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 14.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 5.99998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <5> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 5.99998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 5.99998pt on input line 14.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 14.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 14.
+
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <8> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 9.59998pt on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <6> not available
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
+(Font)              scaled to size 7.19998pt on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 9.59998pt on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
+(Font)              scaled to size 7.19998pt on input line 17.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 17.
+
+Overfull \hbox (3.96472pt too wide) in paragraph at lines 25--32
 []\TU/XBZar(0)/m/n/12 شده است و کارت‌هایی که هنوز مرتب نشده، یکی پس از دیگری در دستهٔ کارت‌های[]
  []
 
 File: figs/sortingCards2.jpg Graphic file (type bmp)
 <figs/sortingCards2.jpg>
-[1
-
-]
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 35.
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 48.
+(Font)              scaled to size 17.27994pt on input line 42.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 73.
+[2]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 77.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 48.
+(Font)              scaled to size 14.39996pt on input line 77.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 49.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 51.
+(Font)              scaled to size 13.20007pt on input line 78.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 51.
+(Font)              scaled to size 13.20007pt on input line 80.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
-(Font)              scaled to size 13.20007pt on input line 51.
- [2] [3] (main.aux)
+(Font)              scaled to size 13.20007pt on input line 80.
+ [3] [4] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4325FBEB762AFA36EA8EBDCEF3B7C514;155.
+(rerunfilecheck)             Checksum: C1E911B65510EBA8CC99B31DCE2FCF05;228.
  ) 
 Here is how much of TeX's memory you used:
- 17063 strings out of 411476
- 347224 string characters out of 5819801
- 1850001 words of memory out of 5000000
- 37033 multiletter control sequences out of 15000+600000
- 517749 words of font info for 91 fonts, out of 8000000 for 9000
+ 17152 strings out of 411476
+ 350393 string characters out of 5819801
+ 1856001 words of memory out of 5000000
+ 37104 multiletter control sequences out of 15000+600000
+ 519314 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,8n,94p,1082b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (3 pages, 23596 bytes).
+Output written on main.xdv (4 pages, 29332 bytes).
