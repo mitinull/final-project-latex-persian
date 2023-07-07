@@ -1,10 +1,18 @@
 # Fdb version 4
-["xdvipdfmx"] 1688726375 "main.xdv" "main.pdf" "main" 1688726375 0
-  "main.xdv" 1688726375 29332 303100b3699136bcc0f47dcdc9be5924 "xelatex"
+["bibtex main"] 1688727781 "main.aux" "main.bbl" "main" 1688727784 0
+  "./refs.bib" 1688727768 388 019f0da6b62b2f84c63c02add4b6a918 ""
+  "D:/Program-Files/MiKTeX&Family/MiKTeX/bibtex/bst/persian-bib/ieeetr-fa.bst" 1310336062 21658 6bca04c15ae273959168907f6f02ea29 ""
+  "main.aux" 1688727782 2237 73186718aa44e7234a2e3fbe991c39da "xelatex"
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["xdvipdfmx"] 1688727783 "main.xdv" "main.pdf" "main" 1688727784 0
+  "main.xdv" 1688727782 35140 705041aa083b29ee45b81799c535e614 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1688726373 "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" "main.xdv" "main" 1688726375 0
+["xelatex"] 1688727781 "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" "main.xdv" "main" 1688727784 0
   "C:/Users/Mohammad/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1678459955 36439472 478f53da6a52c02c79bff605688cac20 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136759654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -108,12 +116,13 @@
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian-mathdigitspec.sty" 1667129857 14840 94198a68ff0f23c2ebb1887e3861bd49 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian-persiancal.sty" 1667129857 8178 0bd07ab30371a3432dba322d51faa3d8 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian.sty" 1667129856 54585 b300d6b8a9c3de50c8d582d10f7f3fd7 ""
-  "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" 1688726371 5197 b2559c60f7869cd7640ff799958cea66 ""
+  "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" 1688727777 5859 08f3b5cf0e01fa1387b194057be82aab ""
   "figs/sortingCards2.jpg" 1688637588 96892 800d59169b1b5b7c2eeb2da00e6cf778 ""
   "head.tex" 1688725832 1746 f195393460bd4b9deab6e4935f8d5352 ""
-  "main.aux" 1688726375 1912 50fe66fa81ef2355a47fde20a111fc74 "xelatex"
-  "main.out" 1688726375 228 c1e911b65510eba8cc99b31dce2fcf05 "xelatex"
-  "main.tex" 1688726371 5197 b2559c60f7869cd7640ff799958cea66 ""
+  "main.aux" 1688727782 2237 73186718aa44e7234a2e3fbe991c39da "xelatex"
+  "main.bbl" 1688727781 586 9153f3bf9d68e2d35990f1daaf009121 "bibtex main"
+  "main.out" 1688727782 312 1cee6c17ab79b77bd51c2b01e1534a07 "xelatex"
+  "main.tex" 1688727777 5859 08f3b5cf0e01fa1387b194057be82aab ""
   (generated)
   "main.aux"
   "main.log"

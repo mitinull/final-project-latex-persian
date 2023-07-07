@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  7 JUL 2023 14:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  7 JUL 2023 14:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,37 +742,40 @@ LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
 (Font)              scaled to size 9.59998pt on input line 17.
 
-Overfull \hbox (3.96472pt too wide) in paragraph at lines 25--32
+Overfull \hbox (3.96472pt too wide) in paragraph at lines 25--31
 []\TU/XBZar(0)/m/n/12 شده است و کارت‌هایی که هنوز مرتب نشده، یکی پس از دیگری در دستهٔ کارت‌های[]
  []
 
 File: figs/sortingCards2.jpg Graphic file (type bmp)
 <figs/sortingCards2.jpg>
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 42.
+(Font)              scaled to size 17.27994pt on input line 41.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 73.
+(Font)              scaled to size 8.39998pt on input line 72.
 [2]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 77.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 76.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 77.
+(Font)              scaled to size 14.39996pt on input line 76.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 78.
+(Font)              scaled to size 13.20007pt on input line 77.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 80.
+(Font)              scaled to size 13.20007pt on input line 79.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
-(Font)              scaled to size 13.20007pt on input line 80.
- [3] [4] (main.aux)
+(Font)              scaled to size 13.20007pt on input line 79.
+ [3] (main.bbl
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 13.20007pt on input line 9.
+) [4] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C1E911B65510EBA8CC99B31DCE2FCF05;228.
+(rerunfilecheck)             Checksum: 1CEE6C17AB79B77BD51C2B01E1534A07;312.
  ) 
 Here is how much of TeX's memory you used:
- 17152 strings out of 411476
- 350393 string characters out of 5819801
+ 17168 strings out of 411476
+ 350637 string characters out of 5819801
  1856001 words of memory out of 5000000
- 37104 multiletter control sequences out of 15000+600000
- 519314 words of font info for 121 fonts, out of 8000000 for 9000
+ 37116 multiletter control sequences out of 15000+600000
+ 519322 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,8n,94p,1082b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (4 pages, 29332 bytes).
+Output written on main.xdv (4 pages, 35140 bytes).
