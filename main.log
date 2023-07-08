@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 09:34
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 09:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -769,12 +769,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: figs/selectionSort.jpg Graphic file (type bmp)
 <figs/selectionSort.jpg>
-[4]
-Overfull \hbox (3.14046pt too wide) in paragraph at lines 157--186
-[]\TU/XBZar(0)/m/n/12 اندیس کوچک‌ترین عنصر نگه می‌داریم. وقتی که به آخر آرایه رسیدیم، کوچک‌ترین[]
- []
-
-[5] (main.bbl
+[4] [5] (main.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 13.20007pt on input line 10.
 ) [6] (main.aux)
@@ -790,4 +785,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  92i,8n,94p,1082b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (6 pages, 55300 bytes).
+Output written on main.xdv (6 pages, 55276 bytes).
