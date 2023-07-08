@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 09:25
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 09:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -724,52 +724,57 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 14.
 
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 17.
+(Font)              scaled to size 9.59998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 17.
+(Font)              scaled to size 7.19998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <8> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 9.59998pt on input line 17.
+(Font)              scaled to size 9.59998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <6> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 7.19998pt on input line 17.
+(Font)              scaled to size 7.19998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 17.
+(Font)              scaled to size 9.59998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 17.
+(Font)              scaled to size 7.19998pt on input line 16.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 17.
+(Font)              scaled to size 9.59998pt on input line 16.
 
-Overfull \hbox (3.96472pt too wide) in paragraph at lines 25--31
+Overfull \hbox (3.96472pt too wide) in paragraph at lines 24--29
 []\TU/XBZar(0)/m/n/12 شده است و کارت‌هایی که هنوز مرتب نشده، یکی پس از دیگری در دستهٔ کارت‌های[]
  []
 
 File: figs/sortingCards2.jpg Graphic file (type bmp)
 <figs/sortingCards2.jpg>
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 41.
+(Font)              scaled to size 17.27994pt on input line 39.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 82.
+(Font)              scaled to size 8.39998pt on input line 78.
 [2]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 86.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 82.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 86.
+(Font)              scaled to size 14.39996pt on input line 82.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 88.
+(Font)              scaled to size 13.20007pt on input line 84.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 90.
+(Font)              scaled to size 13.20007pt on input line 86.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
-(Font)              scaled to size 13.20007pt on input line 90.
+(Font)              scaled to size 13.20007pt on input line 86.
  [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 140.
+(hyperref)                removing `\@ifnextchar' on input line 135.
 
 File: figs/selectionSort.jpg Graphic file (type bmp)
 <figs/selectionSort.jpg>
-[4] [5] (main.bbl
+[4]
+Overfull \hbox (3.14046pt too wide) in paragraph at lines 157--186
+[]\TU/XBZar(0)/m/n/12 اندیس کوچک‌ترین عنصر نگه می‌داریم. وقتی که به آخر آرایه رسیدیم، کوچک‌ترین[]
+ []
+
+[5] (main.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 13.20007pt on input line 10.
 ) [6] (main.aux)
@@ -777,12 +782,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C97264BCFCBF5E3A38395C54F7AE816C;564.
  ) 
 Here is how much of TeX's memory you used:
- 17198 strings out of 411476
- 351136 string characters out of 5819801
+ 17204 strings out of 411476
+ 351215 string characters out of 5819801
  1856001 words of memory out of 5000000
- 37145 multiletter control sequences out of 15000+600000
+ 37151 multiletter control sequences out of 15000+600000
  519322 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,8n,94p,1082b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (6 pages, 54452 bytes).
+Output written on main.xdv (6 pages, 55300 bytes).
