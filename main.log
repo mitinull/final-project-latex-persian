@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  7 JUL 2023 20:31
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 08:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -615,7 +615,20 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 LaTeX Info: Redefining \latinfont on input line 65.
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `alg:a1' multiply defined.
+
+
+LaTeX Warning: Label `alg:a1@cref' multiply defined.
+
+
+LaTeX Warning: Label `alg:a1' multiply defined.
+
+
+LaTeX Warning: Label `alg:a1@cref' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -762,20 +775,28 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 89.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
 (Font)              scaled to size 13.20007pt on input line 89.
- [3] (main.bbl
+ [3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 140.
+
+[4] (main.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 13.20007pt on input line 10.
-) [4] (main.aux)
+) [5] (main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1CEE6C17AB79B77BD51C2B01E1534A07;312.
+(rerunfilecheck)             Checksum: 385EDDEB2B65E1025CDAD8AA676747DD;564.
  ) 
 Here is how much of TeX's memory you used:
- 17171 strings out of 411476
- 350671 string characters out of 5819801
+ 17184 strings out of 411476
+ 350867 string characters out of 5819801
  1856001 words of memory out of 5000000
- 37119 multiletter control sequences out of 15000+600000
+ 37132 multiletter control sequences out of 15000+600000
  519322 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,8n,94p,1082b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,8n,94p,1082b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (4 pages, 39676 bytes).
+Output written on main.xdv (5 pages, 46516 bytes).

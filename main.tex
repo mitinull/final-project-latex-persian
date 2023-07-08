@@ -87,7 +87,7 @@ $i$
   \begin{latin}
     \begin{algorithmic}[1]
       \Procedure{InsertionSort}{arr, n}
-      \For {$i \leftarrow 1$ \textbf{to} $n-1$}
+      \For {$i \gets 1$ \textbf{to} $n-1$}
       \State $key \gets arr[i]$
       \State $j \gets i-1$
       \While {$j >= 0$ and $arr[j] > key$}
@@ -135,6 +135,48 @@ $[7, 6, 6, 4, 9]$
 \cite{shell1}
 \cite{shell2}
 جزئیات الگوریتم و پیچیدگی زمانی مرتب‌سازی شل را در این مقاله بررسی نمی‌کنیم.
+
+
+\section{مرتب‌سازی انتخابی\protect\LTRfootnote{selection sort}}
+
+مرتب‌سازی انتخابی الگوریتم ساده‌ای دارد و
+احتمالا یکی از اولین الگوریتم‌های مرتب‌سازی باشد که به ذهنمان می‌رسد.
+مرتب‌سازی انتخابی اینگونه عمل می‌کند که کوچک‌ترین عنصر آرایه را پیدا می‌کند، آن را در سمت چپ قرار می‌دهد
+و سپس به سراغ عناصر باقی‌مانده می‌رود.
+
+\begin{algorithm}[H]
+  \caption{مرتب‌سازی انتخابی}
+  \begin{latin}
+    \begin{algorithmic}[1]
+      \Procedure{SelectionSort}{arr, n}
+      \For {$i \gets 0$ \textbf{to} $n-1$}
+      \State $minIndex \gets i$
+      \For {$j \gets i+1$ \textbf{to} $n$}
+      \If{$arr[j] < arr[minIndex]$}
+      \State $minIndex \gets j$
+      \EndIf
+      \EndFor
+      \State $Swap(arr, i, minIndex)$
+      \EndFor
+      \EndProcedure
+    \end{algorithmic}
+  \end{latin}
+  \label{alg:a1}
+\end{algorithm}
+
+\begin{algorithm}[H]
+  \caption{جابه‌جایی}
+  \begin{latin}
+    \begin{algorithmic}[1]
+      \Procedure{Swap}{arr, n}
+      \State $temp \gets arr[i]$
+      \State $arr[i] \gets arr[j]$
+      \State $arr[j] \gets temp$
+      \EndProcedure
+    \end{algorithmic}
+  \end{latin}
+  \label{alg:a1}
+\end{algorithm}
 
 {
 \fontsize{12pt}{10pt}\selectfont
