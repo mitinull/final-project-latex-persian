@@ -822,6 +822,9 @@ INPUT D:\Program-Files\MiKTeX&Family\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cm
 INPUT .\figs\sortingCards2.jpg
 INPUT .\figs\sortingCards2.jpg
 INPUT figs\sortingCards2.jpg
+INPUT .\figs\selectionSort.jpg
+INPUT .\figs\selectionSort.jpg
+INPUT figs\selectionSort.jpg
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT main.bbl
