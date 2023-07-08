@@ -218,6 +218,35 @@ $i$
   \end{latin}
 \end{algorithm}
 
+اگر
+\cref{alg:a2}
+را روی آرایهٔ
+$[5, 4, 2, 3, 7]$
+اجرا کنیم،
+آرایه بدین صورت مرتب می‌شود:
+\begin{align*}
+   & [5, 4, 2, 3, 7] \rightarrow [2, 4, 5, 3, 7] \rightarrow
+   [2, 3, 5, 4, 7] \rightarrow [2, 3, 4, 5, 7] \rightarrow    \\
+   & [2, 3, 4, 5, 7]
+\end{align*}
+
+اگر
+\cref{alg:a2}
+را روی آرایهٔ
+$[7, 6, 6, 4, 9]$
+اجرا کنیم،
+آرایه بدین صورت مرتب می‌شود:
+\begin{align*}
+   & [7, 6, 6, 4, 9] \rightarrow [4, 6, 6, 7, 9] \rightarrow
+   [4, 6, 6, 7, 9] \rightarrow [4, 6, 6, 7, 9] \rightarrow    \\
+   & [4, 6, 6, 7, 9]
+\end{align*}
+توجه کنید با اینکه آرایه بعد از یک جابه‌جایی مرتب می‌شود ولی الگوریتم به کار خود ادامه می‌دهد و به‌ازای تمام عناصر
+$i$
+تا
+$n-1$
+اجرا می‌شود.
+
 {
 \fontsize{12pt}{10pt}\selectfont
 \bibliographystyle{ieeetr-fa}
