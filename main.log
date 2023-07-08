@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 08:51
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 09:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -615,20 +615,7 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 LaTeX Info: Redefining \latinfont on input line 65.
-) (main.aux
-
-LaTeX Warning: Label `alg:a1' multiply defined.
-
-
-LaTeX Warning: Label `alg:a1@cref' multiply defined.
-
-
-LaTeX Warning: Label `alg:a1' multiply defined.
-
-
-LaTeX Warning: Label `alg:a1@cref' multiply defined.
-
-)
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -786,19 +773,16 @@ File: figs/selectionSort.jpg Graphic file (type bmp)
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 13.20007pt on input line 10.
 ) [6] (main.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C97264BCFCBF5E3A38395C54F7AE816C;564.
  ) 
 Here is how much of TeX's memory you used:
- 17194 strings out of 411476
- 351094 string characters out of 5819801
+ 17198 strings out of 411476
+ 351136 string characters out of 5819801
  1856001 words of memory out of 5000000
- 37141 multiletter control sequences out of 15000+600000
+ 37145 multiletter control sequences out of 15000+600000
  519322 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,8n,94p,1082b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,8n,94p,1082b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (6 pages, 47832 bytes).
+Output written on main.xdv (6 pages, 54292 bytes).
