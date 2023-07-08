@@ -6,6 +6,9 @@
 \author{محمد ترابی - علی جعفر‌آبادی - رضا تاج‌گذاری} 
 \date{تیرماه ۱۴۰۲}
 
+\newtheorem{remark}{نکته}
+\newtheorem{example}{مثال}
+
 \begin{document}
 \maketitle
 
@@ -98,17 +101,19 @@ $i$
   \end{latin}
 \end{algorithm}
 
-اگر الگوریتم بالا را روی آرایهٔ
-$[7, 6, 6, 4, 9]$
-اجرا کنیم،
-آرایه بدین صورت مرتب می‌شود:
-\begin{align*}
-   & [7, 6, 6, 4, 9] \rightarrow [7, 7, 6, 4, 9] \rightarrow
-  [6, 7, 6, 4, 9] \rightarrow [6, 7, 7, 4, 9] \rightarrow    \\
-   & [6, 6, 7, 4, 9] \rightarrow [6, 6, 7, 7, 9] \rightarrow
-  [6, 6, 6, 7, 9] \rightarrow [6, 6, 6, 7, 9]  \rightarrow   \\
-   & [4, 6, 6, 7, 9] \rightarrow [4, 6, 6, 7, 9]
-\end{align*}
+\begin{example}
+  اگر الگوریتم بالا را روی آرایهٔ
+  $[7, 6, 6, 4, 9]$
+  اجرا کنیم،
+  آرایه بدین صورت مرتب می‌شود:
+  \begin{align*}
+     & [7, 6, 6, 4, 9] \rightarrow [7, 7, 6, 4, 9] \rightarrow
+    [6, 7, 6, 4, 9] \rightarrow [6, 7, 7, 4, 9] \rightarrow    \\
+     & [6, 6, 7, 4, 9] \rightarrow [6, 6, 7, 7, 9] \rightarrow
+    [6, 6, 6, 7, 9] \rightarrow [6, 6, 6, 7, 9]  \rightarrow   \\
+     & [4, 6, 6, 7, 9] \rightarrow [4, 6, 6, 7, 9]
+  \end{align*}
+\end{example}
 
 توجه داشته باشید که پیچیدگی زمانی مرتب‌سازی درجی در بهترین حالت خطی است.
 همچنین بهترین حالت وقتی اتفاق می‌افتد که آرایه مرتب باشد.
@@ -218,34 +223,52 @@ $i$
   \end{latin}
 \end{algorithm}
 
-اگر
-\cref{alg:a2}
-را روی آرایهٔ
-$[5, 4, 2, 3, 7]$
-اجرا کنیم،
-آرایه بدین صورت مرتب می‌شود:
-\begin{align*}
-   & [5, 4, 2, 3, 7] \rightarrow [2, 4, 5, 3, 7] \rightarrow
-   [2, 3, 5, 4, 7] \rightarrow [2, 3, 4, 5, 7] \rightarrow    \\
-   & [2, 3, 4, 5, 7]
-\end{align*}
+\begin{example}
+  \label{ex:e2}
+  اگر
+  \cref{alg:a2}
+  را روی آرایهٔ
+  $[5, 4, 2, 3, 7]$
+  اجرا کنیم،
+  آرایه بدین صورت مرتب می‌شود:
+  \begin{align*}
+     & [5, 4, 2, 3, 7] \rightarrow [2, 4, 5, 3, 7] \rightarrow
+    [2, 3, 5, 4, 7] \rightarrow [2, 3, 4, 5, 7] \rightarrow    \\
+     & [2, 3, 4, 5, 7]
+  \end{align*}
+\end{example}
 
-اگر
-\cref{alg:a2}
-را روی آرایهٔ
-$[7, 6, 6, 4, 9]$
-اجرا کنیم،
-آرایه بدین صورت مرتب می‌شود:
-\begin{align*}
-   & [7, 6, 6, 4, 9] \rightarrow [4, 6, 6, 7, 9] \rightarrow
-   [4, 6, 6, 7, 9] \rightarrow [4, 6, 6, 7, 9] \rightarrow    \\
-   & [4, 6, 6, 7, 9]
-\end{align*}
-توجه کنید با اینکه آرایه بعد از یک جابه‌جایی مرتب می‌شود ولی الگوریتم به کار خود ادامه می‌دهد و به‌ازای تمام عناصر
-$i$
-تا
-$n-1$
-اجرا می‌شود.
+\begin{example}
+  \label{ex:e3}
+  اگر
+  \cref{alg:a2}
+  را روی آرایهٔ
+  $[7, 6, 6, 4, 9]$
+  اجرا کنیم،
+  آرایه بدین صورت مرتب می‌شود:
+  \begin{align*}
+     & [7, 6, 6, 4, 9] \rightarrow [4, 6, 6, 7, 9] \rightarrow
+    [4, 6, 6, 7, 9] \rightarrow [4, 6, 6, 7, 9] \rightarrow    \\
+     & [4, 6, 6, 7, 9]
+  \end{align*}
+\end{example}
+
+\begin{remark}
+  توجه کنید در
+  \cref{ex:e3}
+  با اینکه آرایه بعد از یک جابه‌جایی مرتب می‌شود،
+  الگوریتم به کار خود ادامه می‌دهد و به‌ازای تمام عناصر
+  $i$
+  تا
+  $n-1$
+  اجرا می‌شود.
+  با مقایسه
+  \cref{ex:e2}
+  و
+  \cref{ex:e3}
+  که در بالا آمده اند،
+  می‌توان وابسته نبودن مرتب‌سازی انتخابی به عناصر ورودی را بهتر درک کرد.
+\end{remark}
 
 {
 \fontsize{12pt}{10pt}\selectfont

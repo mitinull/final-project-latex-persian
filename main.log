@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 09:52
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  8 JUL 2023 10:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -615,157 +615,162 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 LaTeX Info: Redefining \latinfont on input line 65.
-) (main.aux)
+)
+\c@remark=\count356
+\c@example=\count357
+ (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 12.
  (D:\Program-Files\MiKTeX&Family\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 12.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 24.88794pt on input line 11.
+(Font)              scaled to size 24.88794pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 11.
+(Font)              scaled to size 17.27994pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 11.
+(Font)              scaled to size 17.27994pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 11.
+(Font)              scaled to size 11.99997pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 11.
+(Font)              scaled to size 8.39998pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <14.4> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 11.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 11.
+(Font)              scaled to size 17.27994pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <10> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 11.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 11.
+(Font)              scaled to size 11.99997pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <7> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 11.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 8.39998pt on input line 11.
+(Font)              scaled to size 8.39998pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 17.27994pt on input line 11.
+(Font)              scaled to size 17.27994pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 11.99997pt on input line 11.
+(Font)              scaled to size 11.99997pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 8.39998pt on input line 11.
+(Font)              scaled to size 8.39998pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 13.
+(Font)              scaled to size 14.39996pt on input line 16.
  [1
 
 ]
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <17.28> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <12> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 14.
+(Font)              scaled to size 14.39996pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 20.73593pt on input line 14.
+(Font)              scaled to size 20.73593pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 14.39996pt on input line 14.
+(Font)              scaled to size 14.39996pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 14.
+(Font)              scaled to size 11.99997pt on input line 17.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 14.
+(Font)              scaled to size 11.00006pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 5.99998pt on input line 14.
+(Font)              scaled to size 5.99998pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <5> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 14.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 5.99998pt on input line 14.
+(Font)              scaled to size 5.99998pt on input line 17.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 5.99998pt on input line 14.
+(Font)              scaled to size 5.99998pt on input line 17.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 14.
+(Font)              scaled to size 7.70004pt on input line 17.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 14.
+(hyperref)                removing `\@ifnextchar' on input line 17.
 
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 16.
+(Font)              scaled to size 9.59998pt on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 16.
+(Font)              scaled to size 7.19998pt on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <8> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 16.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 9.59998pt on input line 16.
+(Font)              scaled to size 9.59998pt on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/bx/n' in size <6> not available
-(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 16.
+(Font)              Font shape `TU/XBZar(1)/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/b/n' will be
-(Font)              scaled to size 7.19998pt on input line 16.
+(Font)              scaled to size 7.19998pt on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 16.
+(Font)              scaled to size 9.59998pt on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(1)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 16.
+(Font)              scaled to size 7.19998pt on input line 19.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 16.
+(Font)              scaled to size 9.59998pt on input line 19.
 
-Overfull \hbox (3.96472pt too wide) in paragraph at lines 24--29
+Overfull \hbox (3.96472pt too wide) in paragraph at lines 27--32
 []\TU/XBZar(0)/m/n/12 شده است و کارت‌هایی که هنوز مرتب نشده، یکی پس از دیگری در دستهٔ کارت‌های[]
  []
 
 File: figs/sortingCards2.jpg Graphic file (type bmp)
 <figs/sortingCards2.jpg>
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 39.
+(Font)              scaled to size 17.27994pt on input line 42.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 78.
+(Font)              scaled to size 8.39998pt on input line 81.
 [2]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 82.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 85.
 LaTeX Font Info:    Font shape `TU/XBZar(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 82.
+(Font)              scaled to size 14.39996pt on input line 85.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 84.
+(Font)              scaled to size 13.20007pt on input line 87.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 86.
+(Font)              scaled to size 13.20007pt on input line 89.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
-(Font)              scaled to size 13.20007pt on input line 86.
+(Font)              scaled to size 13.20007pt on input line 89.
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/it' will be
+(Font)              scaled to size 14.39996pt on input line 105.
  [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 135.
+(hyperref)                removing `\@ifnextchar' on input line 140.
 
 File: figs/selectionSort.jpg Graphic file (type bmp)
 <figs/selectionSort.jpg>
@@ -777,12 +782,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C97264BCFCBF5E3A38395C54F7AE816C;564.
  ) 
 Here is how much of TeX's memory you used:
- 17204 strings out of 411476
- 351215 string characters out of 5819801
+ 17224 strings out of 411476
+ 351486 string characters out of 5819801
  1856001 words of memory out of 5000000
- 37151 multiletter control sequences out of 15000+600000
- 519322 words of font info for 122 fonts, out of 8000000 for 9000
+ 37170 multiletter control sequences out of 15000+600000
+ 519330 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,8n,94p,1082b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (7 pages, 59960 bytes).
+Output written on main.xdv (7 pages, 62184 bytes).
