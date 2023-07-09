@@ -28,4 +28,13 @@ R.~Sedgewick, ``A new upper bound for shellsort,'' {\em Journal of Algorithms},
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{art}
+D.~Knuth.
+\newblock {\em The Art of Computer Programming}.
+\newblock Addison-Wesley, 2nd ed. .
+
+\end{LTRbibitems}
+
 \end{thebibliography}
