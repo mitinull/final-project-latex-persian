@@ -37,4 +37,12 @@ D.~Knuth.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{merge1}
+M.~A. Huang, Bing-Chao;~Langston, ``Practical in-place merging,'' {\em
+  Communications of the ACM},  p.348–352, 1988.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
