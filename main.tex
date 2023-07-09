@@ -202,7 +202,7 @@ $i$
       \State $minIndex \gets j$
       \EndIf
       \EndFor
-      \State $Swap(arr, i, minIndex)$
+      \State \Call{Swap}{$arr, i, minIndex$}
       \EndFor
       \EndProcedure
     \end{algorithmic}
@@ -287,6 +287,75 @@ $i$
   پیشنهاد شده است.
   \cite{merge1}
 \end{remark}
+
+
+\begin{algorithm}[H]
+  \caption{مرتب‌سازی ادغامی}
+  \label{alg:a4}
+  \begin{latin}
+    \begin{algorithmic}[1]
+      \Procedure{MergeSort}{$arr, left, right$}
+      \If{$left < right$}
+      \State $middle \gets \frac{{left + right}}{2}$
+      \State \Call{MergeSort}{$arr, left, middle$}
+      \State \Call{MergeSort}{$arr, middle + 1, right$}
+      \State \Call{Merge}{$arr, left, middle, right$}
+      \EndIf
+      \EndProcedure
+    \end{algorithmic}
+  \end{latin}
+\end{algorithm}
+
+\begin{algorithm}[H]
+  \caption{ادغام}
+  \label{alg:a5}
+  \begin{latin}
+    \begin{algorithmic}[1]
+      \Procedure{Merge}{$arr, left, middle, right$}
+      \State $n1 \gets middle - left + 1$
+      \State $n2 \gets right - middle$
+
+      \State $leftArr \gets \text{new Array}[n1]$
+      \State $rightArr \gets \text{new Array}[n2]$
+
+      \For{$i \gets 0$ to $n1$}
+      \State $leftArr[i] \gets arr[left + i]$
+      \EndFor
+
+      \For{$j \gets 0$ to $n2$}
+      \State $rightArr[j] \gets arr[middle + 1 + j]$
+      \EndFor
+
+      \State $i \gets 0$
+      \State $j \gets 0$
+      \State $k \gets left$
+
+      \While{$i < n1$ and $j < n2$}
+      \If{$leftArr[i] \leq rightArr[j]$}
+      \State $arr[k] \gets leftArr[i]$
+      \State $i \gets i + 1$
+      \Else
+      \State $arr[k] \gets rightArr[j]$
+      \State $j \gets j + 1$
+      \EndIf
+      \State $k \gets k + 1$
+      \EndWhile
+
+      \While{$i < n1$}
+      \State $arr[k] \gets leftArr[i]$
+      \State $i \gets i + 1$
+      \State $k \gets k + 1$
+      \EndWhile
+
+      \While{$j < n2$}
+      \State $arr[k] \gets rightArr[j]$
+      \State $j \gets j + 1$
+      \State $k \gets k + 1$
+      \EndWhile
+      \EndProcedure
+    \end{algorithmic}
+  \end{latin}
+\end{algorithm}
 
 {
 \fontsize{12pt}{10pt}\selectfont
