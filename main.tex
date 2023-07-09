@@ -389,6 +389,49 @@ $i$
   \cite{merge1}
 \end{remark}
 
+\section{مرتب‌سازی سریع\protect\LTRfootnote{Quicksort}}
+مرتب‌سازی سریع یکی از روش‌های پراستفاده برای مرتب‌سازی است.
+این روش نه‌تنها سرعت بالایی دارد، بلکه از نظر حافظه نیز خوب عمل می‌کند و حافظه نسبتا کمی استفاده می‌کند.
+یکی دیگر از مزایای مرتب سازی سریع این است که الگوریتم نسبتا ساده‌ای دارد
+و پیاده سازی آن دشوار نیست.
+\subsection*{الگوریتم مرتب‌سازی سریع}
+\begin{algorithm}[H]
+  \caption{مرتب‌سازی سریع}
+  \label{alg:a5}
+  \begin{latin}
+    \begin{algorithmic}[1]
+      \Procedure{QuickSort}{$arr, low, high$}
+      \If{$low < high$}
+      \State $pivot \gets$ \Call{Partition}{$arr, low, high$}
+      \State \Call{QuickSort}{$arr, low, pivot - 1$}
+      \State \Call{QuickSort}{$arr, pivot + 1, high$}
+      \EndIf
+      \EndProcedure
+    \end{algorithmic}
+  \end{latin}
+\end{algorithm}
+
+\begin{algorithm}[H]
+  \caption{بخش کردن}
+  \label{alg:a6}
+  \begin{latin}
+    \begin{algorithmic}[1]
+      \Procedure{Partition}{$arr, low, high$}
+      \State $pivot \gets arr[high]$
+      \State $i \gets low - 1$
+      \For{$j \gets low$ to $high - 1$}
+      \If{$arr[j] \leq pivot$}
+      \State Swap $arr[i+1]$ and $arr[j]$
+      \State $i \gets i + 1$
+      \EndIf
+      \EndFor
+      \State Swap $arr[i+1]$ and $arr[high]$
+      \State \textbf{return} $i+1$
+      \EndProcedure
+    \end{algorithmic}
+  \end{latin}
+\end{algorithm}
+
 {
 \fontsize{12pt}{10pt}\selectfont
 \bibliographystyle{ieeetr-fa}
