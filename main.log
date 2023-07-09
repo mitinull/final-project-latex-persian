@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  9 JUL 2023 10:00
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.3.10)  9 JUL 2023 10:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,12 +784,12 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
 (Font)              scaled to size 13.20007pt on input line 10.
 ) [7] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A9BB6DD2CE1B6861ED2D9D68AD7FB71C;788.
+(rerunfilecheck)             Checksum: FD4462D9A1C87FF486796EFA5AF73C55;788.
  ) 
 Here is how much of TeX's memory you used:
  17233 strings out of 411476
  351598 string characters out of 5819801
- 1857001 words of memory out of 5000000
+ 1856001 words of memory out of 5000000
  37179 multiletter control sequences out of 15000+600000
  519330 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
