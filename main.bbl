@@ -45,4 +45,25 @@ M.~A. Huang, Bing-Chao;~Langston, ``Practical in-place merging,'' {\em
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{quick0}
+C.~A.~R. Hoare, ``Algorithm 64: Quicksort,'' {\em Comm. ACM},  p.321, 1961.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{quick1}
+S.~S. Skiena, ``The algorithm design manual,'' {\em Springer},  p.129, 2008.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{quick2}
+C.~Foster, ``Algorithms, abstraction and implementation,''  p.98, 1992.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

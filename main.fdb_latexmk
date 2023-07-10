@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1688890746 "main.aux" "main.bbl" "main" 1688891093 0
-  "./refs.bib" 1688884960 992 18da817c15f156f5f83fb1126b5c0ada ""
+["bibtex main"] 1688967497 "main.aux" "main.bbl" "main" 1688967500 0
+  "./refs.bib" 1688967453 1464 17f46bcd0a6216232ad4418ea13aa0fb ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/bibtex/bst/persian-bib/ieeetr-fa.bst" 1310336062 21658 6bca04c15ae273959168907f6f02ea29 ""
-  "main.aux" 1688891091 6313 66ef25969e3309ebb661923127401ddb "xelatex"
+  "main.aux" 1688967499 6755 7c030652b1ac266d7b3f9ee1223e7459 "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1688891092 "main.xdv" "main.pdf" "main" 1688891093 0
-  "main.xdv" 1688891091 100284 70d3b5d86b97b9e26cd9a454c6d49eba "xelatex"
+["xdvipdfmx"] 1688967499 "main.xdv" "main.pdf" "main" 1688967500 0
+  "main.xdv" 1688967499 109240 e284272e8f320238fa819f5209fa7725 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1688891090 "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" "main.xdv" "main" 1688891093 0
+["xelatex"] 1688967497 "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" "main.xdv" "main" 1688967500 0
   "C:/Users/Mohammad/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1678459955 36439472 478f53da6a52c02c79bff605688cac20 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136759654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -116,14 +116,14 @@
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian-mathdigitspec.sty" 1667129857 14840 94198a68ff0f23c2ebb1887e3861bd49 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian-persiancal.sty" 1667129857 8178 0bd07ab30371a3432dba322d51faa3d8 ""
   "D:/Program-Files/MiKTeX&Family/MiKTeX/tex/xelatex/xepersian/xepersian.sty" 1667129856 54585 b300d6b8a9c3de50c8d582d10f7f3fd7 ""
-  "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" 1688891092 17634 7a2e0e9c26e65c7209b37e66c2b3e00b ""
+  "d:/Projects/LaTeX/Sientific-Writing/final-project/main.tex" 1688967491 18589 f3ec1c9da1b019133451c5cc4f8736f8 ""
   "figs/selectionSort.jpg" 1688793477 30444 a172c2ec85c49ceadbff4449eb6858e8 ""
   "figs/sortingCards2.jpg" 1688637588 96892 800d59169b1b5b7c2eeb2da00e6cf778 ""
   "head.tex" 1688798749 1746 f195393460bd4b9deab6e4935f8d5352 ""
-  "main.aux" 1688891091 6313 66ef25969e3309ebb661923127401ddb "xelatex"
-  "main.bbl" 1688890747 1186 ed6ebed1e715a13dd81fd58dc694cfc2 "bibtex main"
-  "main.out" 1688891091 988 bc767921be0a8e420e7e0acfb79c1b44 "xelatex"
-  "main.tex" 1688891092 17634 7a2e0e9c26e65c7209b37e66c2b3e00b ""
+  "main.aux" 1688967499 6755 7c030652b1ac266d7b3f9ee1223e7459 "xelatex"
+  "main.bbl" 1688967497 1651 c1e95ddd42c5697f4dc4b6e326d1dfef "bibtex main"
+  "main.out" 1688967499 988 bc767921be0a8e420e7e0acfb79c1b44 "xelatex"
+  "main.tex" 1688967491 18589 f3ec1c9da1b019133451c5cc4f8736f8 ""
   (generated)
   "main.aux"
   "main.log"
